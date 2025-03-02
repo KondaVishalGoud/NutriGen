@@ -1,0 +1,5 @@
+Flask
+pymongo
+requests
+gunicorn
+google-genai
